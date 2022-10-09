@@ -1,0 +1,6 @@
+model_outputs/
+BACKUPS/
+figures/
+__pycache__/
+.ipynb_checkpoints/
+readme.md
